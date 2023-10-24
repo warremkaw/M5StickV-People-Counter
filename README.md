@@ -1,5 +1,7 @@
 # M5StickV-People-Counter
 
+https://github.com/warremkaw/M5StickV-People-Counter/assets/45612195/8cf65f7f-aaf1-4b3d-aea4-384aa92ae5d8
+
 ## Installing MaixPy onto M5StickV
 
 ### Requirements
